@@ -1,0 +1,3 @@
+com.minatogithub.secrettesting1.config.ApplicationRepositoriesAutoConfiguration
+com.minatogithub.secrettesting1.config.ApplicationTransactionManagersAutoConfig
+com.minatogithub.secrettesting1.config.ApplicationProvidersAutoConfiguration
